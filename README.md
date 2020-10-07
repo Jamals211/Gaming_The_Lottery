@@ -5,5 +5,8 @@ This is a study about predicting winning lottery numbers. The Mega Millions date
 There are nine ways to win that include picking the correct gold ball and getting $2 to guessing all five white balls and the gold ball which will net you the jackpot. <p>
   
 ## Odds Of Winning
-![](odds.PNG)
-<p> The odds of winning the jackpot are 1 in 302,575,350
+![](Odds_Of_Winning.PNG)
+<p> The odds of winning the jackpot are 1 in 302,575,350 but the odds for getting 4 out of 5 white balls is 1 in 38,792. If we can eliminate half of the balls the odds of winning $500 increases dramatically.<p>
+
+## Purpose
+<p> The purpose of this study to use data analytics methods, R and random chance to determine the winning numbers of the Mega Millions. I compare the most current data analytic methods to the quick pick method to determine the best method to pick the winning numbers.
