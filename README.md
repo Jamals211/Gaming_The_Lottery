@@ -1,5 +1,7 @@
-# Lottery
+# Gaming_The_Lottery
 Using statistics to predict the Mega Millions lottery numbers.
+# Lottery
+
 
 ![](Images/logo_MM_233x110.png)
 # Purpose
