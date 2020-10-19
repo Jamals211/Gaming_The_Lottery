@@ -14,3 +14,6 @@ The odds of winning the jackpot are 1 in 302,575,350 but the odds for getting 4 
 
 # Results
 
+![](Images/MegaMillions_Scatter.png)
+
+Identifying which numbers will be called is a challenge. There are some numbers that are called more frequently, and some numbers that are called 
