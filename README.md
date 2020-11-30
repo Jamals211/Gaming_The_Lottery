@@ -2,6 +2,7 @@
 Using statistics to predict the Mega Millions lottery numbers.
 # Lottery
 
+Final Project
 
 ![](Images/logo_MM_233x110.png)
 # Purpose
