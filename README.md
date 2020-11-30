@@ -1,6 +1,3 @@
-
-Final Project
-
 # Gaming_The_Lottery
 Using statistics to predict the Mega Millions lottery numbers.
 # Lottery
